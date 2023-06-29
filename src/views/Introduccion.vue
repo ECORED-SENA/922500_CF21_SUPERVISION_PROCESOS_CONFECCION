@@ -8,7 +8,17 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+
+    p.mb-4(data-aos="fade") Tenga una cordial bienvenida al estudio del componente formativo “Liquidación laboral de personal de confecciones”. Para comenzar, visualice con atención el video que se propone enseguida. ¡Adelante! 
     
+    figure(data-aos="fade-down")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. 
+
+
+      
 </template>
 
 <script>

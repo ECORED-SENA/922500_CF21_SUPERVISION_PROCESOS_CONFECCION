@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="216" viewBox="0 0 216 216">
+  <defs>
+    <filter id="Trazado_113935" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#402d27" flood-opacity="0.263"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_969048" data-name="Grupo 969048" transform="translate(-844.333 -322.495)">
+    <g transform="matrix(1, 0, 0, 1, 844.33, 322.5)" filter="url(#Trazado_113935)">
+      <path id="Trazado_113935-2" data-name="Trazado 113935" d="M48,0A48,48,0,1,1,0,48,48,48,0,0,1,48,0Z" transform="translate(60 60)" fill="#ea526f"/>
+    </g>
+    <g id="Page-1" transform="translate(926.333 404.87)">
+      <g id="_003---Give-Money" data-name="003---Give-Money">
+        <path id="Shape" d="M32.484,9.223A10.888,10.888,0,1,0,36.531,20.2Z" transform="translate(-1.391 -0.649)" fill="#f29c1f"/>
+        <circle id="Oval" cx="11" cy="11" r="11" transform="translate(31 -0.376)" fill="#f0c419"/>
+        <path id="Shape-2" data-name="Shape" d="M0,39.258V33.815A1.815,1.815,0,0,1,1.815,32h9.073A1.815,1.815,0,0,1,12.7,33.815v5.444Z" transform="translate(0 -2.966)" fill="#2fa8cc"/>
+        <path id="Shape-3" data-name="Shape" d="M29.734,42.166a1.815,1.815,0,0,0,1.815-1.815,3.629,3.629,0,0,0-3.629-3.629H25.2a5.444,5.444,0,0,1-3.266-1.089l-.726-.544A5.444,5.444,0,0,0,17.939,34H14v8.166l5.444.907h9.073Z" transform="translate(-1.298 -3.151)" fill="#f09372"/>
+        <path id="Shape-4" data-name="Shape" d="M25.828,51.046c-3.239-7.016-1.532-8.569,1.209-8.569H32.4a5.5,5.5,0,0,0,1.914-.345l12.376-4.645a2.014,2.014,0,0,1,2.132.463,1.985,1.985,0,0,1,.59,1.415,2.027,2.027,0,0,1-.962,1.724L39.285,46.7Z" transform="translate(-2.23 -3.463)" fill="#f09372"/>
+        <rect id="Rectangle-path" width="9" height="18" rx="2" transform="translate(0 34.624)" fill="#67b9cc"/>
+        <path id="Shape-5" data-name="Shape" d="M44.453,45.054a2.027,2.027,0,0,1-.962,1.724L30.644,54.626a5.393,5.393,0,0,1-2.84.8H9.73L9.975,40h3.938a5.437,5.437,0,0,1,3.266,1.089l.726.544a5.437,5.437,0,0,0,3.266,1.089h2.722a3.629,3.629,0,0,1,3.629,3.629A1.8,1.8,0,0,1,27,47.631a1.779,1.779,0,0,1-1.288.535h1.733a5.938,5.938,0,0,0,1.914-.345l12.376-4.645a2.014,2.014,0,0,1,2.132.463,1.985,1.985,0,0,1,.59,1.415Z" transform="translate(-0.902 -3.708)" fill="#fdd7ad"/>
+        <path id="Shape-6" data-name="Shape" d="M28.32,47a1.8,1.8,0,0,1-.526,1.279,1.779,1.779,0,0,1-1.288.535H22.876a5.705,5.705,0,0,0-3.13.971.911.911,0,1,1-1-1.524A7.615,7.615,0,0,1,22.876,47Z" transform="translate(-1.7 -4.356)" fill="#f9c795"/>
+        <path id="Shape-7" data-name="Shape" d="M45.629,10.258a1.815,1.815,0,1,1,1.815-1.815.907.907,0,1,0,1.815,0,3.629,3.629,0,0,0-2.722-3.5V3.907a.907.907,0,1,0-1.815,0V4.943a3.622,3.622,0,0,0,.907,7.13,1.815,1.815,0,1,1-1.815,1.815.907.907,0,1,0-1.815,0,3.629,3.629,0,0,0,2.722,3.5v1.036a.907.907,0,1,0,1.815,0V17.388a3.622,3.622,0,0,0-.907-7.13Z" transform="translate(-3.893 -0.278)" fill="#e57e25"/>
+        <path id="Shape-8" data-name="Shape" d="M26.629,17.258a1.815,1.815,0,1,1,1.815-1.815.907.907,0,1,0,1.815,0,3.629,3.629,0,0,0-2.722-3.5V10.907a.907.907,0,1,0-1.815,0v1.036a3.622,3.622,0,0,0,.907,7.13,1.815,1.815,0,1,1-1.815,1.815.907.907,0,1,0-1.815,0,3.629,3.629,0,0,0,2.722,3.5v1.036a.907.907,0,1,0,1.815,0V24.388a3.622,3.622,0,0,0-.907-7.13Z" transform="translate(-2.132 -0.927)" fill="#d25627"/>
+      </g>
+    </g>
+  </g>
+</svg>
