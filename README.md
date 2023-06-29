@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/922500_CF21_SUPERVISION_PROCESOS_CONFECCION/](https://ecored-sena.github.io/922500_CF21_SUPERVISION_PROCESOS_CONFECCION/)
 
 #
 
