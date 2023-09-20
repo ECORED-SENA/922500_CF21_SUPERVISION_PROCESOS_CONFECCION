@@ -10,7 +10,7 @@
     .row
       .col-lg-9.col-md-9.mb-4(data-aos="fade-right")
         p Cuando se tiene un contrato de trabajo, indiferente de su forma, ya existe una relación laboral, la cual tiene unas obligaciones y derechos tanto del empleador como del empleado; por lo que las prestaciones sociales son una obligación del empleador y un derecho para el empleado.
-        p Las prestaciones sociales son un pago que se hace, adicional, al empleado ya sea en dinero, en especie u otros, que estén contemplados en el contrato de trabajo o en el reglamento interno de trabajo estipulado por la alta dirección y/o el departamento de gestión humana de la organización. Las prestaciones sociales están estipuladas en el CST el cual regula toda la relación laboral existente en el territorio colombiano.
+        p Las prestaciones sociales son un pago que se hace, adicional, al empleado ya sea en dinero, en especie u otros, que estén contemplados en el contrato de trabajo o en el reglamento interno de trabajo estipulado por la alta dirección o el departamento de gestión humana de la organización. Las prestaciones sociales están estipuladas en el CST el cual regula toda la relación laboral existente en el territorio colombiano.
         p Dentro de las relaciones laborales, las prestaciones sociales hacen referencia a lo que se conoce como:
         .fondo-t4.p-4
           .row 
@@ -70,7 +70,7 @@
       .col-lg-9.col-md-9.mb-4(data-aos="fade-left")
         p El Código Sustantivo de Trabajo en su artículo 306 nos dice: 
           b “El empleador está obligado a pagar a su empleado o empleados, la prestación social denominada prima de servicios que corresponderá a 30 días de salario por año, el cual se reconocerá en dos pagos, así: la mitad máximo el 30 de junio y la otra mitad a más tardar los primeros veinte días de diciembre. Su reconocimiento se hará por todo el semestre trabajado o proporcionalmente al tiempo trabajado”.
-        p Dentro de todo el proceso de nómina, prestaciones sociales, contabilidad, sistema de seguridad social, el año está estipulado en 360 días y el mes en 30 sin importar que tengan 31 días algunos meses o en el caso de febrero 28 o 29, todos los meses se toman con 30 días y de esta manera se puede calcular las prestaciones sociales.
+        p Dentro de todo el proceso de nómina, prestaciones sociales, contabilidad, sistema de seguridad social; el año está estipulado en 360 días y el mes en 30 días, sin importar que tengan 31 días algunos meses o en el caso de febrero 28 o 29, todos los meses se toman con 30 días y de esta manera se puede calcular las prestaciones sociales.
         p La fórmula para liquidar la prestación social de prima es:
         img(src='@/assets/curso/temas/t4/form.svg' alt='' style="width: 500px;")
     
@@ -97,7 +97,7 @@
           .col-md-6
             h5 Días por liquidar
             p Como segundo paso es definir el número de días que van a liquidar la prestación social. Para este ejemplo como nos habla del primer semestre del año 2021 que corresponde a los meses de enero a junio, lo que corresponde a 6 meses; multiplicamos el número de meses por 30 que son los días que componen un mes y nos da el número de días a liquidar.
-            img.mb-4(src='@/assets/curso/temas/t4/form2.svg' alt='' style="width: 90%;")
+            img.mb-4(src='@/assets/curso/temas/t4/form2.svg' alt='' style="width: 90 %;")
             p
               b 180 días para liquidar la Prima de servicios.
           .col-md-5
@@ -112,7 +112,7 @@
                 img(src='@/assets/curso/temas/t4/form4.svg' alt='')
               .col-md-6.mb-4
                 img(src='@/assets/curso/temas/t4/form5.svg' alt='')
-            p 𝑃𝑟𝑖𝑚𝑎=
+            p 𝑃𝑟𝑖𝑚𝑎 = 
               b 507,459 es la prima para liquidar en el mes de junio.
           .col-md-5
             img(src='@/assets/curso/temas/t4/slide4.png' alt='')
@@ -176,18 +176,18 @@
         img(src='@/assets/curso/temas/t4/tarj-ico7.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Las cesantías cuando se cuenta con un contrato vigente se pueden retirar única y exclusivamente para compra, mejora o construcción de vivienda, educación de ciclo profesional ya sea propia, del conyugue o hijos menores de 25 años que dependan económicamente del empleado.
+            p Las cesantías cuando se cuenta con un contrato vigente se pueden retirar única y exclusivamente para compra, mejora o construcción de vivienda, educación de ciclo profesional ya sea propia, del cónyuge o hijos menores de 25 años que dependan económicamente del empleado.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico8.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Los intereses de las cesantías es la utilidad de las cesantías acumuladas al 31 de diciembre y corresponde al 12% ,o sea, el 1% mensual.
+            p Los intereses de las cesantías es la utilidad de las cesantías acumuladas al 31 de diciembre y corresponde al 12 % ,o sea, el 1 % mensual.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico9.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
             p Los intereses de las cesantías son diferentes a la rentabilidad entregada por el fondo de cesantías al momento de retirarlas.
-            p.mb-0 Los intereses de las cesantías se calculan sobre las cesantías del periodo definido, por la base salarial por el 12% dividido 360 días del año (cesantías causadas * base salarial * 12%) /360
+            p.mb-0 Los intereses de las cesantías se calculan sobre las cesantías del periodo definido, por la base salarial por el 12 % dividido 360 días del año (cesantías causadas * base salarial * 12 %) /360
 
 
     .row.justify-content-center(data-aos="fade-down")

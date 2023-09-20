@@ -150,7 +150,7 @@ export default {
         'Decreto 2663 de 1950. [Presidencia de la República] Por el cual se expide Código Sustantivo del Trabajo decretos 2663 y 3743 de 1950. 05 Agosto de 1950. ',
       tipo: 'Decreto - Biblioteca SENA',
       link:
-        'https://sena-globallex-info.bdigital.sena.edu.co/normativa/detalle/decreto-2663-de-1950-1410/txt',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IGUB/Decreto-2663-de-1950.pdf',
     },
     {
       tema: 'El salario',
@@ -158,7 +158,7 @@ export default {
         'Ley 2101 de 2021. Por medio de la cual se reduce la jornada laboral semanal de manera gradual, sin disminuir el salario de los trabajadores y se dictan otras disposiciones. Julio 15 de 2021. N° 51736.',
       tipo: 'Ley - Biblioteca SENA',
       link:
-        'https://sena-globallex-info.bdigital.sena.edu.co/normativa/detalle/ley-2101-de-2021-69334/txt',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=166506',
     },
     {
       tema: 'Prestaciones sociales',
@@ -237,7 +237,7 @@ export default {
     {
       termino: 'Obligaciones generales de las partes',
       significado:
-        'las partes que invierten en el contrato de trabajo tienen reciprocas obligaciones, de cuyo cumplimiento y observancia se deriva el normal desarrollo de sus relaciones. Así mismo tiene restricciones y prohibiciones orientadas a amparar derechos laborales.',
+        'las partes que invierten en el contrato de trabajo tienen recíprocas obligaciones, de cuyo cumplimiento y observancia se deriva el normal desarrollo de sus relaciones. Así mismo tiene restricciones y prohibiciones orientadas a amparar derechos laborales.',
     },
     {
       termino: 'Periodo de prueba',
@@ -262,7 +262,7 @@ export default {
     {
       termino: 'Trabajo nocturno dominical o festivo',
       significado:
-        'se remunera con un recargo del 35% más del salario que le corresponde al trabajador por laborar en dominical o festivo en forma habitual.',
+        'se remunera con un recargo del 35 % más del salario que le corresponde al trabajador por laborar en dominical o festivo en forma habitual.',
     },
   ],
   referencias: [
@@ -287,7 +287,7 @@ export default {
       referencia:
         'Ministerio de Trabajo. (2018). <em>Cartilla Riesgos Laborales</em>. ',
       link:
-        'http://199.89.55.129/scorecolombia/documents_co/herramientas/M5/Material_tecnico_apoyo/SGSST_2015/1.%20SGSST/1.%20Cartillas_Publicidad/Cartilla__Riesgos__Laborales_MT.pdf',
+        'https://www.mintrabajo.gov.co/documents/20147/51963/Guia+tecnica+de+implementacion+del+SG+SST+para+Mipymes.pdf/e1acb62b-8a54-0da7-0f24-8f7e6169c178',
     },
     {
       referencia:

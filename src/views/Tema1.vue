@@ -24,8 +24,8 @@
             li.mb-2
               i.fas.fa-circle
               span 
-                b Declaración de la OIT: 
-                | adoptada por los países participes desde la Organización Internacional del Trabajo, donde se manifiestan los principios y derechos fundamentales del trabajo. 
+                b Declaración de la Organización Internacional del Trabajo (OIT): 
+                | adoptada por los países partícipes de la Organización Internacional del Trabajo, donde se manifiestan los principios y derechos fundamentales del trabajo. 
             li.mb-2
               i.fas.fa-circle
               span 
@@ -40,7 +40,7 @@
               i.fas.fa-circle
               span 
                 b Ley 100 de 1993: 
-                | comprende las obligaciones del Estado y la sociedad, las instituciones y los recursos destinados a garantizar la cobertura de las prestaciones de carácter económico, de salud y de servicios complementario. 
+                | comprende las obligaciones del Estado y la sociedad, las instituciones y los recursos destinados a garantizar la cobertura de las prestaciones de carácter económico, de salud y de servicios complementarios. 
 
     h3.t-red(data-aos="fade") Contratos según su forma
 
@@ -49,7 +49,7 @@
         p Para definir los contratos según su forma y duración es importante, primero, definir qué es un contrato de Trabajo.
         p El Código Sustantivo de Trabajo en su artículo 22 lo define como: 
           b “Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona, natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración”.
-        p Para que pueda existir un contrato de trabajo y/o una relación laboral deben de existir tres elementos fundamentales como son: prestación personal del servicio, subordinación y remuneración.
+        p Para que pueda existir un contrato de trabajo o una relación laboral deben de existir tres elementos fundamentales como son: prestación personal del servicio, subordinación y remuneración.
         p Los contratos existentes en Colombia son válidos en todo el territorio nacional y se definen por el Código Sustantivo del Trabajo – CST.
         p Según su forma, los contratos laborales pueden ser:  
       .col-lg-5.col-md-12.mb-4(data-aos="fade-left")
@@ -69,13 +69,13 @@
                 li
                   i.fas.fa-circle
                   span 
-                    b Índole de Trabajo y lugar donde se realiza: 
+                    b Índole de trabajo y lugar donde se realiza: 
                     | es decir las actividades y/o funciones que se van a desarrollar y la ubicación del puesto de trabajo.
                 li
                   i.fas.fa-circle
                   span 
-                    b Monto y Forma de remuneración: 
-                    | se refiere a la base salarial que va a tener el empleado por realizar las actividades y/o funciones concertadas con el empleador. La forma de la remuneración hace referencia a los tiempos de pago y si este pago va a ser por unidad de tiempo (mensual, semanal, quincenal); por obra ejecutada (termina las tareas asignadas).
+                    b Monto y forma de remuneración: 
+                    | se refiere a la base salarial que va a tener el empleado por realizar las actividades o funciones concertadas con el empleador. La forma de la remuneración hace referencia a los tiempos de pago y si este pago va a ser por unidad de tiempo (mensual, semanal, quincenal); por obra ejecutada (termina las tareas asignadas).
                 li.mb-0
                   i.fas.fa-circle
                   span 
@@ -84,10 +84,8 @@
           .col-md-6.mb-4.mb-md-0
             img.mx-auto.mb-3(src='@/assets/curso/temas/t1/ico2.svg' alt='' style="width: 110px;")
             h5.text-center.mb-4 Contrato escrito
-            p Son los que se encargan propiamente del desarrollo y ejecución de los ensayos y/o calibraciones velando por el cumplimiento de los estándares técnicos dentro de un laboratorio textil, estos requisitos abarcan:
-            .bg-2.p-4
-              p El contrato de trabajo escrito está regulado en el artículo 39 del CST donde manifiesta que debe de contener información obligatoria como: identificación y domicilio de las partes; lugar y fecha de la firma del contrato; lugar donde se halla contratado al trabajador y en donde va a prestar los servicios; la naturaleza del trabajo; el valor de la remuneración, su forma y periodos de pago; duración del contrato y terminación.
-              p Este tipo de forma de contrato se recomienda para todos los contratos según su duración ya que esto permitirá tener mayor claridad y respaldo en el momento de alguna situación jurídica. Se imprimen tantos ejemplares como sean los interesados.
+            p.px-lg-3 El contrato de trabajo escrito está regulado en el artículo 39 del CST donde manifiesta que debe de contener información obligatoria como: identificación y domicilio de las partes; lugar y fecha de la firma del contrato; lugar donde se halla contratado al trabajador y en donde va a prestar los servicios; la naturaleza del trabajo; el valor de la remuneración, su forma y periodos de pago; duración del contrato y terminación.
+            p.px-lg-3 Este tipo de forma de contrato se recomienda para todos los contratos según su duración ya que esto permitirá tener mayor claridad y respaldo en el momento de alguna situación jurídica. Se imprimen tantos ejemplares como sean los interesados.
 
 
     h3.t-red(data-aos="fade") Contratos según su duración
@@ -125,7 +123,7 @@
                   h3.mb-1 Código Sustantivo de Trabajo
                   p.text-small.mb-0 Profundice en todo lo relacionado a los contratos y la relación laboral en Colombia, consultando el Código Sustantivo de Trabajo el cual puede encontrar en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="('https://sena-globallex-info.bdigital.sena.edu.co/normativa/detalle/decreto-2663-de-1950-1410/txt')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="('https://ilo.org/dyn/travail/docs/1539/CodigoSustantivodelTrabajoColombia.pdf')" target="_blank")
                     span Ver enlace
                     i.fas.fa-external-link-alt
 

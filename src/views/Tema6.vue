@@ -29,14 +29,15 @@
 
 
     h3.t-red(data-aos="fade") Sistema general en salud
-    p(data-aos="fade") El sistema general de salud dice que todos los habitantes deben estar afiliados para la atención en salud, ya sea en el régimen contributivo o en el régimen subsidiado; el primero corresponde cuando existe una relación laboral y el empleador está en la obligación de afiliar a los empleados y sus beneficiarios a salud. El segundo: el régimen subsidiado es la prestación de atención en salud para los colombianos que no tienen una relación laboral y/o generan ingresos que les permita pagar la afiliación.
+    p(data-aos="fade") El sistema general de salud dice que todos los habitantes deben estar afiliados para la atención en salud, ya sea en el régimen contributivo o en el régimen subsidiado; el primero corresponde cuando existe una relación laboral y el empleador está en la obligación de afiliar a los empleados y sus beneficiarios a salud. El segundo: el régimen subsidiado es la prestación de atención en salud para los colombianos que no tienen una relación laboral o generan ingresos que les permita pagar la afiliación.
     p(data-aos="fade") El régimen subsidiado está dado para la población más vulnerable, como son los desplazados o las personas que, de acuerdo con las encuestas generadas por el SISBEN, indiquen que no cuentan con la protección en Salud.
     p.mb-4(data-aos="fade") El siguiente video desglosa cada uno de estos regímenes; obsérvelo con suma atención y procure llevar registro de lo más destacado en su libreta personal de apuntes.
 
     figure.mb-4(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BBCvcTlDNds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Sistema general en salud en Colombia para los regímenes contributivo y subsidiado
+
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
@@ -74,10 +75,10 @@
               | El fondo pensional lo puede elegir el empleado.
             li.mb-1
               i.fas.fa-circle
-              | El porcentaje de cotización es el 16% sobre el salario mensual del trabajador donde el empleador paga el 12% correspondiente y el 4% se le descuenta mes a mes al empleado.
+              | El porcentaje de cotización es el 16 % sobre el salario mensual del trabajador donde el empleador paga el 12 % correspondiente y el 4 % se le descuenta mes a mes al empleado.
             li.mb-0
               i.fas.fa-circle
-              | Cuando el trabajador tiene un salario superior a cuatro (4) salarios mínimos legales vigentes se le descuenta el 1% adicional, este dinero va destinado al fondo de solidaridad pensional.
+              | Cuando el trabajador tiene un salario superior a cuatro (4) salarios mínimos legales vigentes se le descuenta el 1 % adicional, este dinero va destinado al fondo de solidaridad pensional.
 
     p.mb-4(data-aos="fade") Los siguientes, son aspectos clave que integran el sistema de pensiones:
     
@@ -86,34 +87,34 @@
         p Es el ingreso que se tiene de manera mensual cuando una persona cumple con la edad y las semanas cotizadas requeridas para obtener la pensión. Esta pensión de vejez es para que las personas puedan disfrutar del descanso y cubran todas las necesidades básicas. Los requisitos para obtener esta pensión son: 
           b tener 57 años la mujer o 62 años el hombre y reunir 1300 semanas de cotización.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la pensión de vejez")
-        p Según la regla general del sistema de pensiones nos dice que el monto mensual de la pensión de vejez estará entre el 65% y el 80% del ingreso base de liquidación, así:
+        p Según la regla general del sistema de pensiones nos dice que el monto mensual de la pensión de vejez estará entre el 65 % y el 80 % del ingreso base de liquidación, así:
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1
             i.fas.fa-circle
-            | Si el afiliado cotizó 1300 semanas, el porcentaje de la pensión será del 65% del ingreso base de liquidación.
+            | Si el afiliado cotizó 1300 semanas, el porcentaje de la pensión será del 65 % del ingreso base de liquidación.
           li.mb-1
             i.fas.fa-circle
-            | Si el afiliado cotizó más de 1300 semanas, por cada 50 semanas cotizadas de forma adicional, el porcentaje de la pensión será incrementado en un 1.5% del ingreso base de liquidación.
+            | Si el afiliado cotizó más de 1300 semanas, por cada 50 semanas cotizadas de forma adicional, el porcentaje de la pensión será incrementado en un 1.5 % del ingreso base de liquidación.
           li.mb-1
             i.fas.fa-circle
-            | El monto de la pensión no puede ser mayor al 80% del ingreso base de liquidación.
+            | El monto de la pensión no puede ser mayor al 80 % del ingreso base de liquidación.
           li.mb-1
             i.fas.fa-circle
             | El valor de la mesada pensional no puede ser menor al salario mínimo legal mensual vigente ni superior a 25 salarios mínimos legales mensuales vigentes.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Pensión por invalidez")
-        p La pensión de invalidez es cuando un empleado ha perdido el 50% o más de su capacidad laboral en razón a una enfermedad o patología que no corresponda al desarrollo de las actividades de su puesto de trabajo. Esta incapacidad debe de estar aprobada por una institución autorizada para esto.
+        p La pensión de invalidez es cuando un empleado ha perdido el 50 % o más de su capacidad laboral en razón a una enfermedad o patología que no corresponda al desarrollo de las actividades de su puesto de trabajo. Esta incapacidad debe de estar aprobada por una institución autorizada para esto.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la pensión por invalidez")
         p Para obtener este tipo de pensión debe:
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1
             i.fas.fa-circle
-            | Ser calificado con una pérdida de capacidad laboral igual o superior al 50%
+            | Ser calificado con una pérdida de capacidad laboral igual o superior al 50 %
           li.mb-1
             i.fas.fa-circle
             | Tener 50 semanas cotizadas en los 3 años inmediatamente anteriores a la fecha de estructuración de la invalidez o al acaecimiento de la causa invalidante.
           li.mb-1
             i.fas.fa-circle
-            | En ningún caso, la pensión de invalidez puede ser superior al 75% del IBL.
+            | En ningún caso, la pensión de invalidez puede ser superior al 75 % del IBL.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Situación pensional")
         p Es una prestación donde, por el fallecimiento de un pensionado, por invalidez o vejez, esta pensión pasa a uno de sus beneficiarios como lo establece la ley
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la situación pensional")
@@ -121,10 +122,10 @@
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1
             i.fas.fa-circle
-            | El conyugue o compañero/a permanente. 
+            | El cónyuge o compañero/a permanente. 
           li.mb-1
             i.fas.fa-circle
-            | Los padres, solo si el conyugue no ha dejado conyugue o compañero permanente. 
+            | Los padres, solo si el cónyuge no ha dejado cónyuge o compañero permanente. 
           li.mb-1
             i.fas.fa-circle
             | Los hijos cuando son menores de edad. 

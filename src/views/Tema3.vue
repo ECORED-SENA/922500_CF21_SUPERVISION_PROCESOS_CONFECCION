@@ -25,10 +25,10 @@
           ul.lista-ul--color.color-azul.fa-ul
             li.mb-2
               i.fas.fa-circle
-              | La jornada laboral diurna esta estipulada según el Código Sustantivo de Trabajo en su artículo 160, desde las 6:00am hasta las 9:00 pm.
+              | La jornada laboral diurna esta estipulada según el Código Sustantivo de Trabajo en su artículo 160, desde las 6.00 a. m. hasta las 9.00 p. m.
             li.mb-2
               i.fas.fa-circle
-              | La jornada laboral nocturna según el Código Sustantivo de Trabajo en su artículo 160, la establece desde las 9:00 pm hasta las 6:00 am.
+              | La jornada laboral nocturna según el Código Sustantivo de Trabajo en su artículo 160, la establece desde las 9.00 p. m. hasta las 6.00 a. m.
             li.mb-2
               i.fas.fa-circle
               | El empleado y el empleador pueden llegar acuerdos en los cuales le permita ejecutar sus labores durante diez (10) horas diarias, de aquí que el empleado no puede alegar horas extras, siempre y cuando estas no excedan las cuarenta y ocho (48) horas semanales.

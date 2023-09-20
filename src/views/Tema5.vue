@@ -9,7 +9,7 @@
     
     .row.mb-2
       .col-lg-8.col-md-9.mb-4(data-aos="fade-right")
-        p En el capítulo cuarto “Vacaciones Anuales Remuneradas”, del Código Sustantivo de Trabajo, se indica que las vacaciones no hacen parte de lo que se conoce como las prestaciones sociales, son una obligación del empleador con el empleado.
+        p En el capítulo cuarto #[em #[b “Vacaciones Anuales Remuneradas”]], del Código Sustantivo de Trabajo, se indica que las vacaciones no hacen parte de lo que se conoce como las prestaciones sociales, son una obligación del empleador con el empleado.
         p Las vacaciones corresponden a 15 días hábiles de descanso a que tiene derecho el empleado por cada año laborado o que haya prestado sus servicios. Cuando se habla de días hábiles significa que no incluye domingos, festivos, ni sábados siempre y cuando la jornada ordinaria no se realice este día.
       .col-lg-4.col-md-3.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t5/img.png' alt='')

@@ -29,7 +29,7 @@
           img(src='@/assets/curso/temas/t7/tarj2.png' alt='')
           .p-4
             h5 Deducciones
-            p En la nómina se deben de hacer las deducciones de ley que son: el 4% de aportes a salud; el 4% de aportes a pensión; cuando el trabajador devengue más de cuatro SMLV se le descuenta el 1% para el fondo de solidaridad pensional; si el trabajador tiene embargos judiciales; cuotas de sindicatos; créditos donde autoriza hacer descuento de la cuota mensual por nómina.
+            p En la nómina se deben de hacer las deducciones de ley que son: el 4 % de aportes a salud; el 4 % de aportes a pensión; cuando el trabajador devengue más de cuatro SMLV se le descuenta el 1 % para el fondo de solidaridad pensional; si el trabajador tiene embargos judiciales; cuotas de sindicatos; créditos donde autoriza hacer descuento de la cuota mensual por nómina.
       .col-lg-4.col-md-6.mb-4
         .bg-2.text-center.h-100.tarjeta
           img(src='@/assets/curso/temas/t7/tarj3.png' alt='')
