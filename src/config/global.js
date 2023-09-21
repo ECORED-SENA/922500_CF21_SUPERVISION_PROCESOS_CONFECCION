@@ -148,7 +148,7 @@ export default {
       tema: 'Legislación laboral',
       referencia:
         'Decreto 2663 de 1950. [Presidencia de la República] Por el cual se expide Código Sustantivo del Trabajo decretos 2663 y 3743 de 1950. 05 Agosto de 1950. ',
-      tipo: 'Decreto - Biblioteca SENA',
+      tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IGUB/Decreto-2663-de-1950.pdf',
     },
@@ -156,7 +156,7 @@ export default {
       tema: 'El salario',
       referencia:
         'Ley 2101 de 2021. Por medio de la cual se reduce la jornada laboral semanal de manera gradual, sin disminuir el salario de los trabajadores y se dictan otras disposiciones. Julio 15 de 2021. N° 51736.',
-      tipo: 'Ley - Biblioteca SENA',
+      tipo: 'PDF',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=166506',
     },

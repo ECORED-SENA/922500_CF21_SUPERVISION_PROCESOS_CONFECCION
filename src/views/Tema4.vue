@@ -181,7 +181,7 @@
         img(src='@/assets/curso/temas/t4/tarj-ico8.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Los intereses de las cesantías es la utilidad de las cesantías acumuladas al 31 de diciembre y corresponde al 12 % ,o sea, el 1 % mensual.
+            p Los intereses de las cesantías es la utilidad de las cesantías acumuladas al 31 de diciembre y corresponde al 12 %, o sea, el 1 % mensual.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico9.svg' alt='')
         .tarjeta.bg-2.color-hover
