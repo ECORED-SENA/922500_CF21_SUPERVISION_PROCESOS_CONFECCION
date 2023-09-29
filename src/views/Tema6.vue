@@ -23,7 +23,7 @@
                 h5.mb-0 Sistema General de Pensiones
             .col-md-4
               .tarjeta.bg-2.h-100.p-4.d-flex.align-items-center
-                h5.mb-0 Sistema de Riesgos Labores y de Subsidio Familiar
+                h5.mb-0 Sistema de Riesgos laborales y de Subsidio Familiar
       .col-lg-4.col-md-3.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t6/img.png' alt='')
 
@@ -84,9 +84,11 @@
     
     TabsA.color-primario.mb-4(data-aos="fade-down")
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Pensión de vejez")
+        h4 Pensión de vejez
         p Es el ingreso que se tiene de manera mensual cuando una persona cumple con la edad y las semanas cotizadas requeridas para obtener la pensión. Esta pensión de vejez es para que las personas puedan disfrutar del descanso y cubran todas las necesidades básicas. Los requisitos para obtener esta pensión son: 
           b tener 57 años la mujer o 62 años el hombre y reunir 1300 semanas de cotización.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la pensión de vejez")
+        h4 Consideraciones sobre la pensión de vejez
         p Según la regla general del sistema de pensiones nos dice que el monto mensual de la pensión de vejez estará entre el 65 % y el 80 % del ingreso base de liquidación, así:
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1
@@ -102,8 +104,10 @@
             i.fas.fa-circle
             | El valor de la mesada pensional no puede ser menor al salario mínimo legal mensual vigente ni superior a 25 salarios mínimos legales mensuales vigentes.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Pensión por invalidez")
+        h4 Pensión por invalidez
         p La pensión de invalidez es cuando un empleado ha perdido el 50 % o más de su capacidad laboral en razón a una enfermedad o patología que no corresponda al desarrollo de las actividades de su puesto de trabajo. Esta incapacidad debe de estar aprobada por una institución autorizada para esto.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la pensión por invalidez")
+        h4 Consideraciones sobre la pensión por invalidez
         p Para obtener este tipo de pensión debe:
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1
@@ -116,8 +120,10 @@
             i.fas.fa-circle
             | En ningún caso, la pensión de invalidez puede ser superior al 75 % del IBL.
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Situación pensional")
+        h4 Situación pensional
         p Es una prestación donde, por el fallecimiento de un pensionado, por invalidez o vejez, esta pensión pasa a uno de sus beneficiarios como lo establece la ley
       .div.border-bottom-orange.bg-3.p-4.p-4(titulo="Consideraciones sobre la situación pensional")
+        h4 Consideraciones sobre la situación pensional
         p Los beneficiarios pueden ser:
         ul.lista-ul--color.color-azul.fa-ul
           li.mb-1

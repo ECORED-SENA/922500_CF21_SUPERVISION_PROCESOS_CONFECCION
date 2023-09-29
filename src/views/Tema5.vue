@@ -31,7 +31,7 @@
           .col-md-8.mb-4(data-aos="fade-down")
             .bg-4.tarjeta.p-3.px-md-5.text-center
               p Gloria López operaria de la empresa Confecciones Modernas cumplió sus vacaciones en el mes de marzo y las gozará de este derecho en el mes de junio desde el día 3 de junio, Gloria cumple una jornada ordinaria de lunes a sábado, pero la empresa tiene el sábado como un día no hábil para el cálculo de las vacaciones.
-              p.mb-0 Para calcular los 15 días hábiles de las vacaciones de Gloria López contaremos en calendario los días de lunes a viernes; ya que los sábado la empresa para el cálculo de las vacaciones lo considera como día no hábil.
+              p.mb-0 Para calcular los 15 días hábiles de las vacaciones de Gloria López contaremos en calendario los días de lunes a viernes; ya que los sábados la empresa para el cálculo de las vacaciones lo considera como día no hábil.
 
           .row(data-aos="fade-down")
             .col-md-4.mb-4.mb-lg-0
@@ -101,7 +101,7 @@
 
 
     h3.t-red(data-aos="fade") Las indemnizaciones
-    p(data-aos="fade") La indemnización se lleva a cabo cuando el trabajador es despedido sin justa causa por el empleador y todo esto depende del tipo de contrato y el tiempo que el empleador lleve vinculado a la organización.
+    p(data-aos="fade") La indemnización se lleva a cabo cuando el trabajador es despedido sin justa causa por el empleador y todo esto depende del tipo de contrato y el tiempo que el empleado lleve vinculado a la organización.
     p.mb-4(data-aos="fade") En el capítulo seis (6) del Código Sustantivo de Trabajo, relaciona todo sobre la terminación del contrato laboral; donde menciona las justas causas de despido por parte del empleador y lo que nos concierne en este capítulo lo estipulado en el artículo 64 
       b “…En caso de terminación unilateral del contrato de trabajo sin justa causa comprobada, por parte del empleador o si éste da lugar a la terminación unilateral por parte del trabajador por alguna de las justas causas contempladas en la ley, el primero deberá al segundo una indemnización”.
 

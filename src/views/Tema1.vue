@@ -84,7 +84,7 @@
           .col-md-6.mb-4.mb-md-0
             img.mx-auto.mb-3(src='@/assets/curso/temas/t1/ico2.svg' alt='' style="width: 110px;")
             h5.text-center.mb-4 Contrato escrito
-            p.px-lg-3 El contrato de trabajo escrito está regulado en el artículo 39 del CST donde manifiesta que debe de contener información obligatoria como: identificación y domicilio de las partes; lugar y fecha de la firma del contrato; lugar donde se halla contratado al trabajador y en donde va a prestar los servicios; la naturaleza del trabajo; el valor de la remuneración, su forma y periodos de pago; duración del contrato y terminación.
+            p.px-lg-3 El contrato de trabajo escrito está regulado en el artículo 39 del CST donde manifiesta que debe de contener información obligatoria como: identificación y domicilio de las partes; lugar y fecha de la firma del contrato; lugar donde se haya contratado al trabajador y en donde va a prestar los servicios; la naturaleza del trabajo; el valor de la remuneración, su forma y periodos de pago; duración del contrato y terminación.
             p.px-lg-3 Este tipo de forma de contrato se recomienda para todos los contratos según su duración ya que esto permitirá tener mayor claridad y respaldo en el momento de alguna situación jurídica. Se imprimen tantos ejemplares como sean los interesados.
 
 

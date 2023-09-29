@@ -43,7 +43,7 @@
             .col-md-1.col-3.px-md-2
               img(src='@/assets/curso/temas/t5/nota.svg' alt='')
             .col-md-11
-              p.mb-0 Para liquidar las prestaciones sociales de un empleado se debe de tener en cuenta todo lo que constituya salario: 
+              p.mb-0 Para liquidar las prestaciones sociales de un empleado se debe tener en cuenta todo lo que constituya salario: 
                 b comisiones, horas extras y recargos nocturnos, dominicales y festivos.
 
     p.mb-4(data-aos="fade") Hay que tener en cuenta lo que dice el Código Sustantivo de Trabajo en su artículo 128 sobre lo que NO constituye salario: 
@@ -55,7 +55,7 @@
           .col-md-1.col-3.px-md-2
             img(src='@/assets/curso/temas/t4/alert.svg' alt='')
           .col-md-11
-            p.mb-0 Para las prestaciones sociales como la prima y el auxilio de las cesantías, se debe de tener en cuenta el auxilio de transporte siempre y cuando el empleado gane menos de dos (2) salarios mínimos legales vigentes.
+            p.mb-0 Para las prestaciones sociales como la prima y el auxilio de las cesantías, se debe tener en cuenta el auxilio de transporte siempre y cuando el empleado gane menos de dos (2) salarios mínimos legales vigentes.
 
 
     Separador        
@@ -81,7 +81,7 @@
         .row.justify-content-center
           .col-md-6
             h5 Caso ejemplo
-            p Federico García ingresó a la empresa Confecciones Modernas el día 15 de diciembre del año 2020 como auxiliar de producción, con un salario mínimo legal vigente, por lo que se debe de liquidar la prestación social de la prima correspondiente al primer semestre del año 2021. ¿Por qué vamos a liquidar el primer semestre del año 2021? Porque se sobre entiende que a más tardar el 20 de diciembre del año 2020 se le pagó la prima de servicio por esos 16 días.
+            p Federico García ingresó a la empresa Confecciones Modernas el día 15 de diciembre del año 2020 como auxiliar de producción, con un salario mínimo legal vigente, por lo que se debe liquidar la prestación social de la prima correspondiente al primer semestre del año 2021. ¿Por qué vamos a liquidar el primer semestre del año 2021? Porque se sobre entiende que a más tardar el 20 de diciembre del año 2020 se le pagó la prima de servicio por esos 16 días.
           .col-md-5
             img(src='@/assets/curso/temas/t4/slide1.png' alt='')
         .row.justify-content-center
@@ -145,12 +145,12 @@
         img(src='@/assets/curso/temas/t4/tarj-ico1.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Para el pago de las cesantías se tiene en cuenta el último salario base mensual que tuvo el empleado, si este empleado tiene un sueldo variable se debe de realizar la ponderación de todos los salarios del último año o fracción de tiempo que corresponda para el pago del auxilio de las cesantías.
+            p Para el pago de las cesantías se tiene en cuenta el último salario base mensual que tuvo el empleado, si este empleado tiene un sueldo variable se debe realizar la ponderación de todos los salarios del último año o fracción de tiempo que corresponda para el pago del auxilio de las cesantías.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico2.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Para calcular las cesantías se tiene en cuenta todo lo que constituye salario, comisiones, horas extras, recargos nocturnos, dominicales o festivos; de igual manera se debe de tener en cuenta para el cálculo de las cesantías el auxilio de transporte siempre y cuando gane menos de dos (2) salarios mínimos legales vigentes.
+            p Para calcular las cesantías se tiene en cuenta todo lo que constituye salario, comisiones, horas extras, recargos nocturnos, dominicales o festivos; de igual manera se debe tener en cuenta para el cálculo de las cesantías el auxilio de transporte siempre y cuando gane menos de dos (2) salarios mínimos legales vigentes.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico3.svg' alt='')
         .tarjeta.bg-2.color-hover
@@ -165,7 +165,7 @@
         img(src='@/assets/curso/temas/t4/tarj-ico5.svg' alt='')
         .tarjeta.bg-2.color-hover
           .text-center.p-4
-            p Cuando el contrato se termina en el transcurso del año el empleador debe de liquidar las cesantías correspondientes al periodo laborado en la liquidación de contrato.
+            p Cuando el contrato se termina en el transcurso del año el empleador debe liquidar las cesantías correspondientes al periodo laborado en la liquidación de contrato.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t4/tarj-ico6.svg' alt='')
         .tarjeta.bg-2.color-hover
@@ -218,7 +218,7 @@
       .col-lg-9.col-md-9.mb-4(data-aos="fade-left")   
         p La dotación es una prestación social la cual está respaldada en el Código Sustantivo de Trabajo en el artículo 230 
           b “Todo empleador que habitualmente ocupe uno (1) o más trabajadores permanentes, deberá suministrar cada cuatro (4) meses, en forma gratuita, un (1) par de zapatos y un (1) vestido de labor al trabajador, cuya remuneración mensual sea hasta dos (2) meses el salario mínimo más alto vigente. Tiene derecho a esta prestación el trabajador que en las fechas de entrega de calzado y vestido haya cumplido más de tres (3) meses al servicio del empleador”.
-        p Para clarificar un poco mas todo lo relacionado con la dotación como prestación social, se profundizará en algunas características importantes para tener en cuenta:  
+        p Para clarificar un poco más todo lo relacionado con la dotación como prestación social, se profundizará en algunas características importantes para tener en cuenta:  
 
     .fondo-t3.mb-4(data-aos="fade-down")
       .row.justify-content-evenly.p-4
@@ -234,22 +234,22 @@
               | Tienen derecho a la dotación los empleados que devenguen menos de dos (2) salarios mínimos legales vigentes y que hayan cumplido más de tres (3) meses al servicio del empleador.
             li.mb-0
               i.fas.fa-circle
-              | Tienen derecho a la dotación todos los empleados de la organización: administrativos, operarios, vendedores, entre otros, y la dotación debe de tener coherencia con el cargo a desempeñar. Para tener derecho a esta prestación, los cargos de la empresa deben de cumplir con los requisitos planteados en el punto anterior.
+              | Tienen derecho a la dotación todos los empleados de la organización: administrativos, operarios, vendedores, entre otros, y la dotación debe tener coherencia con el cargo a desempeñar. Para tener derecho a esta prestación, los cargos de la empresa deben cumplir con los requisitos planteados en el punto anterior.
             li.mb-0
               i.fas.fa-circle
               | La dotación según el Código Sustantivo de Trabajo está compuesta por un par de zapatos y un vestido de labor, y no enfatizan sobre la calidad, ni marcas, ni modelos que deben de utilizar las empresas para sus dotaciones; por lo que el empleador no está obligado a cumplir con unas especificaciones de prendas o marcas.
             li.mb-0
               i.fas.fa-circle
-              | La dotación como prestación social es diferente a los elementos de seguridad y protección industrial, esta última esta reglamentada desde las normas de Seguridad y Salud Laboral en Colombia y la ley 100, adicionalmente es obligación para todos los trabajadores de las empresas sin importar la base salarial que devenguen mensualmente.
+              | La dotación como prestación social es diferente a los elementos de seguridad y protección industrial, esta última está reglamentada desde las normas de Seguridad y Salud Laboral en Colombia y la ley 100, adicionalmente es obligación para todos los trabajadores de las empresas sin importar la base salarial que devenguen mensualmente.
             li.mb-0
               i.fas.fa-circle
-              | Según la norma la dotación debe de entregarse tres (3) veces al año o sea cada cuatro meses y se encuentran estipuladas así: el 30 de abril debe de realizarse la primera (1) entrega; el 31 de agosto la segunda (2) entrega y el 20 de diciembre la tercera (3) entrega.
+              | Según la norma, la dotación debe entregarse tres (3) veces al año o sea cada cuatro meses y se encuentran estipuladas así: el 30 de abril debe realizarse la primera (1) entrega; el 31 de agosto la segunda (2) entrega y el 20 de diciembre la tercera (3) entrega.
             li.mb-0
               i.fas.fa-circle
-              | El empleado está obligado a utilizarla dotación entregada por la empresa; ya que, si no la maneja, el empleado pierde el derecho a recibir la dotación en el periodo siguiente. Esto lo dice el artículo 233 del Código Sustantivo de Trabajo “El trabajador queda obligado a destinar a su uso en las labores contratadas el calzado y vestido que le suministre el {empleador}, y en el caso de que así no lo hiciere éste quedara eximido de hacerle el suministro en el período siguiente.”
+              | El empleado está obligado a utilizar la dotación entregada por la empresa; ya que, si no la maneja, el empleado pierde el derecho a recibir la dotación en el periodo siguiente. Esto lo dice el artículo 233 del Código Sustantivo de Trabajo “El trabajador queda obligado a destinar a su uso en las labores contratadas el calzado y vestido que le suministre el {empleador}, y en el caso de que así no lo hiciere este quedara eximido de hacerle el suministro en el período siguiente.”
             li.mb-0
               i.fas.fa-circle
-              | La dotación como es una prestación social, el empleado no tiene que devolverla cuando finaliza el contrato. Hay algunas excepciones como son: las empresas de vigilancia entregan los uniformes por razones de seguridad ciudadana y cuando estos tienen logos de las empresas para el cuidado de la imagen corporativa y mitigar los riesgos de fraudes que comprometan la empresa.
+              | La dotación, como es una prestación social, el empleado no tiene que devolverla cuando finaliza el contrato. Hay algunas excepciones como son: las empresas de vigilancia entregan los uniformes por razones de seguridad ciudadana y cuando estos tienen logos de las empresas para el cuidado de la imagen corporativa y mitigar los riesgos de fraudes que comprometan la empresa.
             li.mb-0
               i.fas.fa-circle
               | La ley no tiene claridad sobre qué pasa si el empleador no entrega la dotación, por lo que el empleado puede reclamar este derecho instaurando una demanda laboral. 

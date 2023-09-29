@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Contrato verbal',
       significado:
-        'por simple acuerdo expresado oralmente, las partes convienen con en la índole de trabajo y el sitio en donde ha de realizarse la cuantía y la forma de remuneración, así como los periodos que regulen su pago.',
+        'por simple acuerdo expresado oralmente, las partes convienen en la índole de trabajo y el sitio en donde ha de realizarse la cuantía y la forma de remuneración, así como los periodos que regulen su pago.',
     },
     {
       termino: 'Contrato escrito',
@@ -217,7 +217,7 @@ export default {
     {
       termino: 'Descanso dominical remunerado',
       significado:
-        'es obligatorio conceder al trabajador descanso remunerado en domingo, siempre y cuando el empleado haya laborado toda la semana a los cuales se comprometió.',
+        'es obligatorio conceder al trabajador descanso remunerado el domingo, siempre y cuando el empleado haya laborado toda la semana a los cuales se comprometió.',
     },
     {
       termino: 'El sistema General de Pensiones',
@@ -225,7 +225,7 @@ export default {
         'garantizar el amparo contra la invalidez, vejez y muerte, mediante el reconocimiento de pensiones y prestaciones económicas determinadas por la ley.',
     },
     {
-      termino: 'Horas extra',
+      termino: 'Horas extras',
       significado:
         'el trabajo que se desarrolla más allá de la jornada ordinaria o de la máxima legal en el evento de trabajadores amparados por esta, se conoce como trabajador suplementario o de horas extras y debe remunerarse en forma especial. En ningún caso las horas extras de trabajo, diurnas o nocturnas podrán exceder de dos (2) horas diarias y doce (12) a la semana.',
     },
